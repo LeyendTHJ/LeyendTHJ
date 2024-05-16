@@ -24,11 +24,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,php,python,java,react,laravel,spring,docker,git,github)](https://skillicons.dev)
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
-</p>
-
 ------
 
 Hecho por [Mario de la Calle](https://github.com/LeyendTHJ)
