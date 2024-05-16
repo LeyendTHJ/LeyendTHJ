@@ -33,4 +33,4 @@
 
 ------
 
-[BrantLauro](https://github.com/LeyendTHJ)
+Hecho por [Mario de la Calle](https://github.com/LeyendTHJ)
