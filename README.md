@@ -32,4 +32,5 @@
 ------
 
 Hecho por [Mario de la Calle](https://github.com/LeyendTHJ)
+
 (Actualmente está el README en desarrollo, por lo que no es definitivo)
