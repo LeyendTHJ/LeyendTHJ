@@ -22,7 +22,7 @@
 
 <h3 align="center">Mis recursos y herramientas:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,php,python,java,react,laravel,spring,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,php,python,java,react,laravel,spring,docker,git,github)](https://skillicons.dev)
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
